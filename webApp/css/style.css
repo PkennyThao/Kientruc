@@ -1,0 +1,68 @@
+.dichvu h6{
+	font-size: 14px;
+	font-weight: bold;
+}
+.dichvu a{
+	text-decoration: none;
+}
+.dichvu a:hover{
+	color: blue;
+}
+.dichvu img{
+	float: left;
+	width: 60px;
+	padding: 2px;
+	border: 1px solid gray;
+	margin-right: 3px;
+}
+.dichvu span{
+	clear: both;
+
+}
+.thicongnha h5{
+	font-size: 14px;
+	font-weight: bold;
+}
+.thicongnha a{
+	text-decoration: none;
+}
+.thicongnha a:hover{
+	color: blue;
+}
+.thicongnha img{
+	float: left;
+	width: 100px;
+	padding: 2px;
+	border: 1px solid gray;
+	margin-right: 3px;
+}
+.thicongnha span{
+	clear: both;
+
+}
+
+ul{
+	list-style: none;
+}
+.clearfix {
+				float: none;
+				clear: both;
+			}
+			.list_carousel ul {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+				display: block;
+			}
+			.list_carousel li {
+				
+				text-align: center;
+				padding: 0;
+				margin: 6px;
+				display: block;
+				float: left;
+			}
+		.list_carousel.responsive {
+				width: auto;
+				margin-left: 0;
+			}
